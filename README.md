@@ -207,5 +207,6 @@ This forms the base value for further calculations, such as applying discounts o
 
 
  video presentation showcasing the app features
- 
+
+ https://github.com/user-attachments/assets/0857d676-9264-4d41-85b7-04686ac3c95f
 
